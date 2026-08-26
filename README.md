@@ -1,12 +1,14 @@
-# Neon Runner — build jogável
+# Angri & Sano: BH Run — build jogável
 
-Build web do **Neon Runner**, um endless runner de 3 pistas com Angri e Sano,
-mascotes do Hospital Veterinário Angrisano.
+Endless runner de 3 pistas com **Angri e Sano**, mascotes do Hospital Veterinário
+Angrisano, correndo por Belo Horizonte.
 
 **Jogue:** https://angrisanovet-create.github.io/neon-runner-play/
 
-Feito em Godot 4.7. Este repositório contém apenas os arquivos compilados —
-é atualizado a cada novo build, não tem histórico de desenvolvimento.
+Você corre pela Avenida Antônio Carlos, passa pela UFMG e chega à Lagoa da
+Pampulha. Os ônibus do MOVE atravessam a pista.
+
+Feito em Godot 4.7. Este repositório contém apenas os arquivos compilados.
 
 ## Controles
 
